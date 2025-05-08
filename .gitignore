@@ -1,0 +1,11 @@
+# General
+tmp.*
+
+# Rust
+target/
+
+# IJ IDEs
+.idea/
+
+# VSCode
+.vscode/

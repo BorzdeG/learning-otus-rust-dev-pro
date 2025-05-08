@@ -1,0 +1,3 @@
+[workspace]
+resolver = "3"
+members = ["homework_01_01", "homework_01_04"]
