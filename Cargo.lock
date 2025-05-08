@@ -3,9 +3,9 @@
 version = 4
 
 [[package]]
-name = "homework_01_01"
+name = "homework_01"
 version = "0.1.0"
 
 [[package]]
-name = "homework_01_04"
+name = "homework_02"
 version = "0.1.0"
