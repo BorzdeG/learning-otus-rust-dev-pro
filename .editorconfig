@@ -1,5 +1,5 @@
 root = true
-
+# https://github.com/rust-lang/rustfmt/issues/2938
 [*]
 charset = utf-8
 end_of_line = lf
@@ -9,3 +9,9 @@ indent_style = tab
 insert_final_newline = true
 trim_trailing_whitespace = true
 max_line_length = 150
+
+[.github/**/*.yml]
+indent_style = space
+
+[{LICENSE,README.adoc}]
+indent_style = unset
