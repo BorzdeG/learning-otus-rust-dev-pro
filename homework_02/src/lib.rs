@@ -24,5 +24,3 @@ type Degree = f32;
 trait Thermometer {
     fn current() -> Degree;
 }
-
-fn main() {}

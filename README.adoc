@@ -1,18 +1,4 @@
 = Курс "Rust Developer. Professional" от OTUS
 
-Имена каталогов: "type-m-n", 
+Страница курса: https://otus.ru/lessons/rust-developer/
 
-[cols="^1,1"]
-[%autowidth]
-|===
-
-|`type`
-|`homework` (домашка) или `project` (проектная работа)
-
-|`m`
-|номер месяца в курсе
-
-|`n`
-|номер занятия внутри месяца
-
-|===
